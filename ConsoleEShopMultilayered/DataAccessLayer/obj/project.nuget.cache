@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6z2rgWMXzP0tDe7/rQi5SJM/gRoQ1Qg8E7ed+Yb4iNwwtVfgWlYuyNfxBrPOQd/SeuE4djqdFXH17tpo+28Z5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anton Pylypenko\\Desktop\\EpamProjects\\ConsoleEShopMultilayered\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton Pylypenko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anton Pylypenko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

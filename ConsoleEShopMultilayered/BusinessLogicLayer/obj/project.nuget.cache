@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMRAiYdEjACC3TYeCD0tPe/lnR3iLB8+gCDOyhoc5hn0ZYpBp4bqwdb4gsfqRCecse7l9DaxdO0e/Qq/GMluJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anton Pylypenko\\Desktop\\EpamProjects\\ConsoleEShopMultilayered\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton Pylypenko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anton Pylypenko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
